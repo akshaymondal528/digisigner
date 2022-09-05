@@ -1,0 +1,6 @@
+node_modules
+documents
+uploads
+*-lock.json
+*.lock
+.env
